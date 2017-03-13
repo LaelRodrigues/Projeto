@@ -43,8 +43,8 @@ float periQuadrado(float lado){
  /**
   * @brief Funcao que calcula o perimetro do circulo
   * @param raio Medida do raio do circulo
-  * @return Perimetro do ciculo
+  * @return Perimetro do circulo
   */
-float periCiculo(float raio){
+float periCirculo(float raio){
 	return 2 * PI * raio;
 }

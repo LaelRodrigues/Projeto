@@ -17,7 +17,7 @@
  * @param base Medida da base do triangulo
  * @param altura Medida da altura do triangulo 
  */
-void imprimirPeriTriangulo(float base, float altura){
+void imprimirPeriTriangulo(float lado){
 
 	cout << "O valor da perimetro do triangulo eh: " << periTriangulo(lado) << endl;
 }

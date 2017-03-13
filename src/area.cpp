@@ -1,10 +1,10 @@
 /** 
  * @file	area.cpp
-   @brief	Arquivo corpo com a implementacoes das funcoes que realizam
+ * @brief	Arquivo corpo com a implementacoes das funcoes que realizam
  *   				o calculo da area de viguras geometricas planas e espaciais
  * @author	Lael Rodrigues(laelrodrigues7@gmail.com)
  * @since	11/03/2017
- * @date 	11/03/2017
+ * @date 	12/03/2017
  * @sa		area.h
  */
 

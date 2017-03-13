@@ -66,7 +66,7 @@ void dadosCirculo(float raio){
 
 	cout << "Digite o valor do raio: ";
 	cin >> lado;
-	cout << "O valor da area do circulo eh: " << areaQuadrado(raio) << endl;
+	cout << "O valor da area do circulo eh: " << areaCirculo(raio) << endl;
 
 }
 
